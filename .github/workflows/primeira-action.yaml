@@ -19,7 +19,7 @@ jobs:
             - name: Run a one-line script
               run: echo Hello, world!
     
-    deploy-producao3015:
+    deploy-poc-3006:
       runs-on: ubuntu-latest
       environment:
               name: poc-3006
