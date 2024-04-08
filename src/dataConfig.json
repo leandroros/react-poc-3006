@@ -1,0 +1,10 @@
+{
+  "endereco": "https://dlp.epsoft.com.br",
+  "endereco_react": "https://dlp.epsoft.com.br",
+  "endereco_localhost": "http://localhost",
+  "porta_localhost": "8028",
+  "ambiente_end": "POCNEW",
+  "porta": "8028",
+  "porta_react": "3006",
+  "porta_api": "5004"
+}
